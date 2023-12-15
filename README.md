@@ -1,12 +1,16 @@
 
 # Dynamic ETL
 
-ETL(Extract, Transform and Load)
-.process that extracts the data from different source systems,
-.then transforms the data 
-.finally loads the data into the data warehouse system.
+ETL stands for Extract, Transform, Load and it is a process used in data warehousing to extract data from various sources, transform it into a format suitable for loading into a data warehouse, and then load it into the warehouse. 
 
-![img_01-4-1024x428](https://github.com/PDA-KALABURAGI/Dynamic-ETL/assets/121853960/323d8f86-c72f-4566-9292-6bcc1da7552d)
+The process of ETL can be broken down into the following three stages:
+
+Extract: The first stage in the ETL process is to extract data from various sources such as transactional systems, spreadsheets, and flat files.
+Transform: In this stage, the extracted data is transformed into a format that is suitable for loading into the data warehouse. This may involve cleaning and validating the data, converting data types, combining data from multiple sources, and creating new data fields.
+
+Load: After the data is transformed, it is loaded into the data warehouse. This step involves creating the physical data structures and loading the data into the warehouse.
+
+![what-is-etl-in-datawarehouse-2](https://github.com/PDA-KALABURAGI/Dynamic-ETL/assets/121853960/d408d654-0137-49df-afd2-b21138a0eebf)
 
 
 # Requirements
