@@ -6,6 +6,9 @@ ETL(Extract, Transform and Load)
 .then transforms the data 
 .finally loads the data into the data warehouse system.
 
+![img_01-4-1024x428](https://github.com/PDA-KALABURAGI/Dynamic-ETL/assets/121853960/323d8f86-c72f-4566-9292-6bcc1da7552d)
+
+
 # Requirements
 
 <p align="center">
@@ -21,7 +24,7 @@ ETL(Extract, Transform and Load)
 # Developed By Team 1
 
 ## Members:
-###Anushka swami(Team leader )
+Anushka swami(Team leader )
 Gouri (Manager)
 Divya Davanagere
 Aishwarya Nigudgi 
