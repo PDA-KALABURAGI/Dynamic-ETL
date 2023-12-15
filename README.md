@@ -17,7 +17,7 @@ ETL(Extract, Transform and Load)
 
 [![Python Version](https://img.shields.io/badge/Python-3.12.0-yellow.svg)](https://python.org/)
 
-# Developed By Team 2
+# Developed By Team 1
 
 ## Members:
 ###Anushka swami(Team leader )
