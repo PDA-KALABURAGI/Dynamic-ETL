@@ -10,7 +10,7 @@ ETL(Extract, Transform and Load)
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
-    <img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/380px-FileZilla_logo.svg.png?20170527113000/>
+    <img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/380px-FileZilla_logo.svg.png?20170527113000"/>
       </p>
       
 # Versions
