@@ -51,6 +51,10 @@ Shreenidhi.A.Goud
 ## DEMO OF THE ETL PROCESS 
 
 
+
+https://github.com/PDA-KALABURAGI/Dynamic-ETL/assets/121853960/f57f5e8a-3643-43e4-8c16-ea286c7b13e7
+
+
 ## Advantages
 
 1.Improved data quality.
